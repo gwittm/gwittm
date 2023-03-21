@@ -37,8 +37,7 @@ You are very welcome to track my learning-process here at github!
 >
 
 :phone: **How to contact me**
-<p align="left">
-  <a href="https://github.com/gwittm"><img alt="GitHub" title="GitHub" height="48" width="48" src="[assets/github.svg](https://www.bing.com/images/search?view=detailV2&ccid=kjCUP06W&id=68BC6BDF2A44F6B12362900D5C5C041FB0B42248&thid=OIP.kjCUP06WDUMR88i5wo2SqwHaHa&mediaurl=https%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fGitHub_logo.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9230943f4e960d4311f3c8b9c28d92ab%3frik%3dSCK0sB8EXFwNkA%26pid%3dImgRaw%26r%3d0&exph=5000&expw=5000&q=GitHub+Icon&simid=608015117297853564&FORM=IRPRST&ck=74A835977380CEA0D16A7C951A2A7BD6&selectedIndex=0)"></a>
-</p>
+>
 📧 gabrielewittmann@web.de
+>
 📞 0049 176 21996840
