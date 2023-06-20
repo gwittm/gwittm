@@ -41,3 +41,5 @@ You are very welcome to track my learning-process here at github!
 📧 gabrielewittmann@web.de
 >
 📞 0049 176 21996840
+
+<div class="tenor-gif-embed" data-postid="25868426" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/programming-gif-25868426">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
