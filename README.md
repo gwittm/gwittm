@@ -42,4 +42,5 @@ You are very welcome to track my learning-process here at github!
 >
 📞 0049 176 21996840
 
-<div class="tenor-gif-embed" data-postid="25868426" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/programming-gif-25868426">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![programming](https://github.com/gwittm/gwittm/assets/128288586/de3769b6-78f1-480f-b30a-59486e42f0b9)
+
